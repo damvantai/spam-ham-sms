@@ -1,0 +1,21 @@
+Mail từ thầy Phúc gửi các bạn:
+"Vietnamese SMS Spam Filter
+Datamining Challenge 2017, Spring
+Theo như yêu cầu của đa số các bạn SV trong lớp học Khai Phá Dữ Liệu. Mình sẽ tổ chức cuộc thi – challenge – lọc tin nhắn rác tiếng Việt cho các nhóm trong lớp.
+1. Tạo nhóm (ghi rõ họ tên thành viên, MSSV) và đăng ký địa chỉ email mỗi nhóm
+2. Mình sẽ gửi theo địa chỉ email đã đăng ký khoảng 100 mẫu tin nhắn – tập học - đã trộn (tin nhắn bình thường và tin nhắn rác)
+3. Mình sẽ gửi theo địa chỉ email đã đăng ký tầm tuần 10 khoảng 100 mẫu tin nhắn – tập kiểm tra
+4. Yêu cầu các nhóm gửi lại kết quả ngay sau 3 ngày tính từ ngày gửi. Mỗi nhóm được gửi tối đa 2 kết quả.
+5. Công bố kết quả và trao giải thưởng vào tuần cuối cùng.
+Định dạng tập học gồm nhãn (1 harm, -1 spam) và 100 dòng tin nhắn
+1 Gui ca name, mat khau nua chu 3 thong so co ban co ma
+-1 Ban buon ban le giay dan tuong gia re chi cuon
+1 Chuc mung nam moi!
+…….
+Định dạng tập kiểm tra gồm nhãn 0 và 100 dòng tin nhắn
+0 Ban nha Cau giay Ha Noi, 35m2, 5 tang, 3 ty LH:
+0 Goi ngay so nay nhe 19008994 Nghe tau hai cuc soc khi phe Ruou ... nhe!
+……
+Định dạng tập kết quả giống như tập học
+Mình muốn nhờ em thông báo tạo nhóm và địa chỉ email để mình bắt đầu gửi tập học. Các bạn đã tham gia vào các nhóm trong cuộc thi sẽ không phải thi Cuối Kỳ, tuy nhiên các nhóm sẽ phải gửi một báo cáo (tầm 10 – 12 trang) về phương pháp lọc tin nhắn tự động đã dùng trong cuộc thi."
+Đây là link đăng ký nhóm, các bạn gửi thông tin vào đây nhé, hạn đăng ký: 20h00 ngày 19/02/2017, có vấn đề gì các bạn comment tại post này nhé. Thank all !
