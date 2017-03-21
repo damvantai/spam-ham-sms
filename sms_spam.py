@@ -30,3 +30,4 @@ for line in text:
 #         print (label)
 print(message[0])
 print(label)
+print(message)
